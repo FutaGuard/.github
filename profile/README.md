@@ -14,7 +14,7 @@ FutaGuard 是一個公益團體，旨在提供一個安全且乾淨的網路環�
 
 ## 贊助
 
-若想贊助 FutaGuard，歡迎到 [https://donate.com](https://core.newebpay.com/EPG/futaguard/FMaZ4E)
+若想贊助 FutaGuard，歡迎到 https://core.newebpay.com/EPG/futaguard/FMaZ4E
 
 ## 目標
 
